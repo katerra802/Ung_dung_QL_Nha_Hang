@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T\u00E0i Li\u1EC7u \u0110\u1EA1i H\u1ECDc\\N\u0103m 3 ( HK 1)\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\\u0110\u1ED3 \u00E1n\\QuanLyNhaHang\\UngDung_QuanLyNhaHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4E62E-AFC8-4D37-9AFD-2AEA63817432}|UngDung_QuanLyNhaHang\\UngDung_QuanLyNhaHang.csproj|d:\\t\u00E0i li\u1EC7u \u0111\u1EA1i h\u1ECDc\\n\u0103m 3 ( hk 1)\\h\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\\u0111\u1ED3 \u00E1n\\quanlynhahang\\ungdung_quanlynhahang\\ungdung_quanlynhahang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FB4E62E-AFC8-4D37-9AFD-2AEA63817432}|UngDung_QuanLyNhaHang\\UngDung_QuanLyNhaHang.csproj|solutionrelative:ungdung_quanlynhahang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\T\u00E0i Li\u1EC7u \u0110\u1EA1i H\u1ECDc\\N\u0103m 3 ( HK 1)\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\\u0110\u1ED3 \u00E1n\\QuanLyNhaHang\\UngDung_QuanLyNhaHang\\UngDung_QuanLyNhaHang\\Form1.cs",
+              "RelativeDocumentMoniker": "UngDung_QuanLyNhaHang\\Form1.cs",
+              "ToolTip": "D:\\T\u00E0i Li\u1EC7u \u0110\u1EA1i H\u1ECDc\\N\u0103m 3 ( HK 1)\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\\u0110\u1ED3 \u00E1n\\QuanLyNhaHang\\UngDung_QuanLyNhaHang\\UngDung_QuanLyNhaHang\\Form1.cs [Design]",
+              "RelativeToolTip": "UngDung_QuanLyNhaHang\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:20:29.606Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
