@@ -37,19 +37,19 @@
             // 
             // pan_funtion
             // 
-            pan_funtion.Dock = DockStyle.Left;
+            pan_funtion.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
             pan_funtion.Location = new Point(0, 0);
             pan_funtion.Name = "pan_funtion";
-            pan_funtion.Size = new Size(371, 533);
+            pan_funtion.Size = new Size(525, 533);
             pan_funtion.TabIndex = 0;
-            pan_funtion.Paint += dpanel.DrawRightUp;
+            pan_funtion.Paint += dpanel.DrawRight;
             // 
             // pan_order
             // 
             pan_order.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            pan_order.Location = new Point(331, 0);
+            pan_order.Location = new Point(460, 0);
             pan_order.Name = "pan_order";
-            pan_order.Size = new Size(718, 532);
+            pan_order.Size = new Size(589, 532);
             pan_order.TabIndex = 0;
             // 
             // Form_Main

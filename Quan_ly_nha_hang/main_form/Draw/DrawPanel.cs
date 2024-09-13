@@ -8,12 +8,12 @@ namespace main_form.Draw
 {
     public class DrawPanel
     {
-        public void DrawLeftUp(object sender, PaintEventArgs e)
+        public void DrawLeft(object sender, PaintEventArgs e)
         {
-            Panel pnl = (Panel)sender;
+            Panel pnl = sender as Panel;
             System.Drawing.Drawing2D.GraphicsPath path = new System.Drawing.Drawing2D.GraphicsPath();
 
-            int radius = 90; // Bán kính góc bo
+            int radius = 20; // Bán kính góc bo
             Rectangle bounds = new Rectangle(0, 0, pnl.Width, pnl.Height);
 
             // Tạo bo tròn cho góc trên bên trái
@@ -31,13 +31,15 @@ namespace main_form.Draw
             e.Graphics.FillRegion(new SolidBrush(pnl.BackColor), pnl.Region);
         }
 
-        public void DrawRightUp(object sender, PaintEventArgs e)
+        public void DrawRight(object sender, PaintEventArgs e)
         {
             Panel pnl = sender as Panel;
             System.Drawing.Drawing2D.GraphicsPath path = new System.Drawing.Drawing2D.GraphicsPath();
 
-            int radius = 100; // Bán kính góc bo
+            int radius = 90; // Bán kính góc bo
             Rectangle bounds = new Rectangle(0, 0, pnl.Width, pnl.Height);
+
+          
 
             // Đường thẳng bên trái
             path.AddLine(0, 0, bounds.Width - radius, 0); // Đường thẳng trên cùng đến góc phải
@@ -53,5 +55,6 @@ namespace main_form.Draw
             e.Graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.AntiAlias;
             e.Graphics.FillRegion(new SolidBrush(pnl.BackColor), pnl.Region);
         }
+
     }
 }

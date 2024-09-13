@@ -15,7 +15,7 @@ namespace main_form
         public FormFunction()
         {
             InitializeComponent();
-            this.BackColor = System.Drawing.Color.AliceBlue;
+            this.BackColor = Color.LightSkyBlue;
         }
 
         

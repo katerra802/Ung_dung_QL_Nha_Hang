@@ -20,6 +20,5 @@ namespace main_form
             pw.CurrentChildForm = new FormOrder();
             pw.OpenChildForm(pw.CurrentChildForm, pan_order);
         }
-
     }
 }

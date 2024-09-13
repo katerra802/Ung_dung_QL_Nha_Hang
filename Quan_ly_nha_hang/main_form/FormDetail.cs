@@ -15,7 +15,7 @@ namespace main_form
         public FormDetail()
         {
             InitializeComponent();
-            this.BackColor = System.Drawing.Color.Aqua;
+            this.BackColor = Color.LightSkyBlue;
         }
 
 

@@ -22,10 +22,11 @@ namespace main_form
 
         private void setupTable()
         {
-            int buttonWidth = 150;
-            int buttonHeight = 150;
-            int marginleft = 160; 
-            int margintop = 40;
+            int buttonWidth = 110;
+            int buttonHeight = 110;
+            int marginleft = 210;
+            int marginRigt = 50;
+            int margintop = 30;
 
             for (int i = 1; i <= 18; i++)
             {
@@ -40,7 +41,7 @@ namespace main_form
                 int column = (i - 1) % 3; // Cột thứ mấy trong hàng (bắt đầu từ 0)
 
                 // Thiết lập vị trí cho nút
-                tableButton.Left = column * (buttonWidth + marginleft) + marginleft; // Cột
+                tableButton.Left = column * (buttonWidth + marginRigt) + marginleft; // Cột
                 tableButton.Top = row * (buttonHeight + margintop) + margintop; // Hàng
 
                 // Gán sự kiện click cho nút
@@ -57,5 +58,6 @@ namespace main_form
             Button clickedButton = sender as Button;
             MessageBox.Show($"Bạn đã chọn {clickedButton.Text}");
         };
+
     }
 }

@@ -34,7 +34,8 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(403, 450);
+            BackColor = Color.LightSkyBlue;
+            ClientSize = new Size(958, 450);
             Name = "FormFunction";
             Text = "FromFunction";
             ResumeLayout(false);
