@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dv+HB75xzhU=",
+  "dgSpecHash": "CBdtCoJ/59M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\hoc ki 1 nam 3\\he_quan_tri_csdl\\Do_an_mon_hoc\\Quan_ly_nha_hang\\main_form\\main_form.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\hoc ki 1 nam 3\\he_quan_tri_csdl\\Do_an_mon_hoc\\Ung_dung_QL_Nha_Hang\\Quan_ly_nha_hang\\main_form\\main_form.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",

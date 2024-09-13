@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\hoc ki 1 nam 3\\he_quan_tri_csdl\\Do_an_mon_hoc\\Quan_ly_nha_hang\\main_form\\main_form.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\hoc ki 1 nam 3\\he_quan_tri_csdl\\Do_an_mon_hoc\\Ung_dung_QL_Nha_Hang\\Quan_ly_nha_hang\\main_form\\main_form.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\hoc ki 1 nam 3\\he_quan_tri_csdl\\Do_an_mon_hoc\\Quan_ly_nha_hang\\main_form\\main_form.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\hoc ki 1 nam 3\\he_quan_tri_csdl\\Do_an_mon_hoc\\Ung_dung_QL_Nha_Hang\\Quan_ly_nha_hang\\main_form\\main_form.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\hoc ki 1 nam 3\\he_quan_tri_csdl\\Do_an_mon_hoc\\Quan_ly_nha_hang\\main_form\\main_form.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\hoc ki 1 nam 3\\he_quan_tri_csdl\\Do_an_mon_hoc\\Ung_dung_QL_Nha_Hang\\Quan_ly_nha_hang\\main_form\\main_form.csproj",
         "projectName": "main_form",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\hoc ki 1 nam 3\\he_quan_tri_csdl\\Do_an_mon_hoc\\Quan_ly_nha_hang\\main_form\\main_form.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\hoc ki 1 nam 3\\he_quan_tri_csdl\\Do_an_mon_hoc\\Ung_dung_QL_Nha_Hang\\Quan_ly_nha_hang\\main_form\\main_form.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\hoc ki 1 nam 3\\he_quan_tri_csdl\\Do_an_mon_hoc\\Quan_ly_nha_hang\\main_form\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\hoc ki 1 nam 3\\he_quan_tri_csdl\\Do_an_mon_hoc\\Ung_dung_QL_Nha_Hang\\Quan_ly_nha_hang\\main_form\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
